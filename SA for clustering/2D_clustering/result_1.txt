@@ -1,0 +1,71 @@
+200点 3簇
+SINICC method:
+Dis1 criterion: 21127.195861
+Dis2 criterion: 124542.246424
+Kmeans method:
+Dis1 criterion: 21267.028596
+Dis2 criterion: 124682.079159
+
+200点 5簇
+SINICC method:
+Dis1 criterion: 5873.995282
+Dis2 criterion: 34262.545549
+Kmeans method:
+Dis1 criterion: 5844.061484
+Dis2 criterion: 34247.578650
+
+200点 10簇
+SINICC method:
+Dis1 criterion: 1032.130716
+Dis2 criterion: 7058.707762
+Kmeans method:
+Dis1 criterion: 954.237126
+Dis2 criterion: 7041.398076
+
+500点 3簇
+SINICC method:
+Dis1 criterion: 136448.972826
+Dis2 criterion: 799676.902645
+Kmeans method:
+Dis1 criterion: 133930.210255
+Dis2 criterion: 797158.140074
+
+500点 5簇
+SINICC method:
+Dis1 criterion: 39418.568253
+Dis2 criterion: 208695.481890
+Kmeans method:
+Dis1 criterion: 39847.733863
+Dis2 criterion: 208910.064695
+
+500点 10簇
+SINICC method:
+Dis1 criterion: 8307.595326
+Dis2 criterion: 44919.746683
+Kmeans method:
+Dis1 criterion: 6400.668135
+Dis2 criterion: 44495.985086
+
+1000点 3簇
+SINICC method:
+Dis1 criterion: 564831.485988
+Dis2 criterion: 3174624.485837
+Kmeans method:
+Dis1 criterion: 529571.086080
+Dis2 criterion: 3139364.085928
+
+1000点 5簇
+SINICC method:
+Dis1 criterion: 179759.022949
+Dis2 criterion: 875616.683446
+Kmeans method:
+Dis1 criterion: 150391.323398
+Dis2 criterion: 860932.833671
+
+1000点 10簇
+SINICC method:
+Dis1 criterion: 41882.026348
+Dis2 criterion: 181416.260818
+Kmeans method:
+Dis1 criterion: 24447.470470
+Dis2 criterion: 177541.915068

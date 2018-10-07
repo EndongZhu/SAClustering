@@ -1,0 +1,11 @@
+使用方式：
+进入main.m脚本文件，运行即可
+其中运行完毕后跳出的两张图，Fig1为SINICC方法的效果图，Fig2为Kmeans方法的效果图
+
+附录：
+main.m 主脚本文件
+Cal_distance.m 计算基于簇内距离的代价函数的代码
+Kmeans_cmp.m 使用Kmeans方法的聚类
+op_change.m 执行扰动操作的代码
+plot_show.m 画图代码
+validation.m 验证聚类效果好坏的代码
